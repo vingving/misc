@@ -72,4 +72,3 @@ print_param4(**p2)
 
 
 출처: https://jhproject.tistory.com/109 [JH PROJECT]
-출처: https://jhproject.tistory.com/109 [JH PROJECT]
